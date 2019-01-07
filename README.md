@@ -1,0 +1,2 @@
+# ForestCoverTypePrediction
+Projet Apprentissage statistique
